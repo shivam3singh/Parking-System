@@ -7,7 +7,7 @@ The Car Parking System is a Java-based application designed to manage a parking 
   
 Adding Vehicles: Add vehicles to the parking lot, specifying the registration number, color, and type.
 
-Removing Vehicles: Remove vehicles from the parking lot using either the registration number or the token ID.
+Removing Vehicles: Remove vehicles from the parking lot using the token ID.
 
 Checking Availability: Check the availability of vehicle spaces on a specific floor for a given vehicle type.
 
